@@ -1,10 +1,9 @@
 ## 👋 Hi, I’m @Sarrez 
-- 🌱 I’m currently learning Docker, React and Node!
+- 🌱 I’m currently learning Docker, React and Django!
 - ✨ Familiar with:
   - Java 
   - Python
   - HTML, CSS, Javascript
-  - Django
   - Git/GitHub
  - 🚀 My goals:
     - Land my first job 💻
