@@ -1,5 +1,7 @@
-![image](https://github.com/Sarrez/Sarrez/assets/33499927/3c987bd8-d61d-4755-89a9-40fd0f1146d5)## 👋 Hi, I’m @Sarrez 
-- 🌱 I’m currently improving my skills on DevOps, Docker and PowerShell scripting!
+👋 Hi, I’m @Sarrez 
+- 🎓 Recently graduated with a Degree in Computer Science
+- 🌱 I’m currently learning about Docker and PowerShell scripting!
+- 📌 I aspire to become a DevOps engineer
 - ✨ Familiar with:
   - Java 
   - Python
