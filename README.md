@@ -1,6 +1,6 @@
 👋 Hi, I’m @Sarrez 
 - 🎓 Recently graduated with a Degree in Computer Science
-- 🌱 I’m currently learning about Docker and PowerShell scripting!
+- 🌱 I’m currently learning about Git, Docker, Kubernetes, ArgoCD and Azure DevOps!
 - 📌 I aspire to become a DevOps engineer
 - ✨ Familiar with:
   - Java 
