@@ -16,8 +16,13 @@
     - Take AZ-900 certification
     - <del>Land my first internship💻</del>
     - <del>Contribute to the open source community</del>
+
 ## 📈 My GitHub stats 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarrez&show_icons=true&theme=radical" alt="abhisheknaiidu" />
+
+## Check out my badges!
+[![An image of @sarrez's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarrez)](https://holopin.io/@sarrez)
+
 
 <!---
 Sarrez/Sarrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
