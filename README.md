@@ -1,22 +1,14 @@
 👋 Hi, I’m @Sarrez 
-- 🎓 Recently graduated with a Degree in Computer Science
-- 🌱 I’m currently learning about Git, Docker, Kubernetes, ArgoCD and Azure DevOps!
-- 📌 I aspire to become a DevOps engineer
+- 🎓 CSD AUTh Grad 
+- 📌 I aspire to become a DevOps Engineer 🚀
 - ✨ Familiar with:
   - Java 
   - Python
   - HTML, CSS, Javascript
   - Git/GitHub
-  - Docker
-  - Shell scripting
+  - Docker and Kubernetes
   - MySQL/MongoDB
- - 🚀 My goals for 2023:
-    - Land my first job💻
-    - Take part in Hacktoberfest🤖
-    - Take AZ-900 certification
-    - <del>Land my first internship💻</del>
-    - <del>Contribute to the open source community</del>
-
+  
 ## 📈 My GitHub stats 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarrez&show_icons=true&theme=radical" alt="abhisheknaiidu" />
 
