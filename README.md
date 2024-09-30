@@ -2,8 +2,8 @@
 - 🎓 CSD AUTh Grad 
 - 📌 I aspire to become a DevOps Engineer 🚀
 - ✨ Familiar with:
-  - Java 
-  - Python
+  - Java, Python
+  - Powershell and Bash scripting
   - HTML, CSS, Javascript
   - Git/GitHub
   - Docker and Kubernetes
