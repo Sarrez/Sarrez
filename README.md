@@ -1,12 +1,15 @@
 👋 Hi, I’m @Sarrez 
 - 🎓 CSD AUTh Grad 
-- 📌 I aspire to become a DevOps Engineer 🚀
-- ✨ Familiar with:
-  - Java, Python
+- 📌 DevOps Engineer 🚀
+- ✨ Currently working with:
+  - Python and Golang
   - Powershell and Bash scripting
-  - HTML, CSS, Javascript
-  - Git/GitHub
   - Docker and Kubernetes
+  - GitOps and ArgoCD
+  - Azure Cloud
+  - Azure Pipelines and GitHub actions
+- I have worked with:
+  - HTML, CSS, Javascript
   - MySQL/MongoDB
   
 ## 📈 My GitHub stats 
